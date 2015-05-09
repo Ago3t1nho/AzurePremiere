@@ -4,6 +4,3 @@ http.createServer(function(req, res) {
 res.writeHead(200, { 'Content-Type': 'text/plain' });
 res.end('Hello Azure\n');
 }).listen(port);
-
-
-https://github.com/Ago3t1nho/AzurePremiere.git
